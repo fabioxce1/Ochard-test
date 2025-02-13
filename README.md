@@ -35,4 +35,4 @@ Banner Custom Theme is a minimal and flexible WordPress theme designed for seaml
 - `style.css` - Theme styling
 
 == Support ==
-For any issues, please contact [your email or website].
+For any issues, please contact santosserranofabio@gmail.com.
