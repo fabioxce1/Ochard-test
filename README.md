@@ -19,12 +19,12 @@ Banner Custom Theme is a minimal and flexible WordPress theme designed for seaml
 
 == Features ==
 - Custom banner support (`banner.php` included).
-- Compatible with `[producto_del_dia]` shortcode.
+- Compatible with `[product_of_the_day]` shortcode.
 - Responsive and clean layout.
 
 == Usage ==
 - To display your custom banner, ensure `banner.php` is present in the theme directory.
-- Insert `[producto_del_dia]` shortcode in your pages or templates where you want the product of the day to appear.
+- Insert `[product_of_the_day]` shortcode in your pages or templates where you want the product of the day to appear.
 
 == File Structure ==
 - `header.php` - Theme header
